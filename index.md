@@ -244,7 +244,7 @@ Get directions with
   </div>
 </div>
 
-<p>Schedule subject to change if necessaryty.</p>
+<p>Schedule subject to change if necessary.</p>
 
 <hr/>
 
