@@ -244,20 +244,9 @@ Get directions with
   </div>
 </div>
 
-<p>Schedule subject to change if necessary.</p>
+<p>Schedule subject to change if necessaryty.</p>
 
 <hr/>
-
-{% comment %}
-  Collaborative Notes
-
-  If you want to use an Etherpad, go to
-
-      http://pad.software-carpentry.org/YYYY-MM-DD-site
-
-  where 'YYYY-MM-DD-site' is the identifier for your workshop,
-  e.g., '2015-06-10-esu'.
-{% endcomment %}
 
 <h2 id="collaboration">Online Collaboration</h2>
 
