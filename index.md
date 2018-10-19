@@ -13,7 +13,7 @@ enddate: 2018-10-28        # machine-readable end date for the workshop in YYYY-
 instructor: ["Marnee Dearman", "Dawson Fairbanks", "Julian Pistorius", "Tyson Swetnam"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Uwe Hilgert", "Amy Hudson", "Branden Lau", "Xiang Liu", "Cesar Medina", "Matt Miller", "Fernando Rios", "Travis Struck". "Frank Ventura"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["hilgert@bio5.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: https://pad.carpentries.org/2018-10-27-Tucson            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: "https://pad.carpentries.org/2018-10-27-Tucson"            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
