@@ -258,12 +258,15 @@ Get directions with
   where 'YYYY-MM-DD-site' is the identifier for your workshop,
   e.g., '2015-06-10-esu'.
 {% endcomment %}
+
 {% if page.collaborative_notes %}
+
 <h2 id="collaboration">Online Collaboration</h2>
 
 <p id="collaborative_notes"><b>
   We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </b></p>
+
 {% endif %}
 
 <hr/>
